@@ -2,8 +2,6 @@ Here is the full project link: https://miguel4prez.github.io/To-do-List/
 
 
 # To-do-List
- 
-## To-Do List:
 This is a simple To-Do List web application written in HTML, CSS, and JavaScript. The application allows users to add tasks to a list and delete them once they are completed.
 
 ## Usage:
